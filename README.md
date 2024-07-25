@@ -1,10 +1,16 @@
 ## Hi there 👋 My name is Małgorzata
 
+I am passionate about creating beautiful and interactive web experiences, driven by the excitement of solving practical problems through pattern discovery. I am constantly refining my skills in JavaScript, React, TypeScript, HTML, SCSS, and code optimization. Over the past four years, I have managed my art business and an e-commerce website built on Shopify, developing a keen sense of aesthetics and staying current with web design trends.
 
 [![Example Image](4gh.jpg)](https://meljaszuk.github.io/SEE-MY-PORTFOLIO/)
 
+<a href="4gh.jpg">
+  <img src="https://meljaszuk.github.io/SEE-MY-PORTFOLIO" alt="SEE MY PORTFOLIO" style="width:50%;">
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meljaszuk&layout=compact)
+
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk)](https://github.com/meljaszuk/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meljaszuk&layout=donut)](https://github.com/meljaszuk/github-readme-stats)
 
