@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Małgorzata
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?meljaszuk=ffflabs)](https://github.com/meljaszuk/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/meljaszuk/github-readme-stats)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk)](https://github.com/meljaszuk/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meljaszuk&layout=donut)](https://github.com/meljaszuk/github-readme-stats)
 
