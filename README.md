@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Małgorzata
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk&hide=stars,issues)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk)](https://github.com/meljaszuk/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meljaszuk&layout=donut)](https://github.com/meljaszuk/github-readme-stats)
 
