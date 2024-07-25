@@ -4,7 +4,7 @@ I am passionate about creating beautiful and interactive web experiences, driven
 
 [![Example Image](4gh.jpg)](https://meljaszuk.github.io/SEE-MY-PORTFOLIO/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk&size_weight=0.5&count_weight=0.5&hide=stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk&size_weight=0&count_weight=1&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meljaszuk&layout=compact)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk)](https://github.com/meljaszuk/github-readme-stats)
