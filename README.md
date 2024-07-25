@@ -4,10 +4,6 @@ I am passionate about creating beautiful and interactive web experiences, driven
 
 [![Example Image](4gh.jpg)](https://meljaszuk.github.io/SEE-MY-PORTFOLIO/)
 
-<a href="4gh.jpg">
-  <img src="https://meljaszuk.github.io/SEE-MY-PORTFOLIO" alt="SEE MY PORTFOLIO" style="width:50%;">
-</a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meljaszuk&layout=compact)
 
