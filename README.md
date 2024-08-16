@@ -2,6 +2,7 @@
 
 I am passionate about creating beautiful and interactive web experiences, driven by the excitement of solving practical problems through pattern discovery. I am constantly refining my skills in JavaScript, React, TypeScript, HTML, SCSS, and code optimization. Over the past four years, I have managed my art business and an e-commerce website built on Shopify, developing a keen sense of aesthetics and staying current with web design trends.
 
+
 [![Example Image](4gh.jpg)](https://meljaszuk.github.io/SEE-MY-PORTFOLIO/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk&hide=stars,issues)
