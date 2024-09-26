@@ -5,6 +5,9 @@ I am passionate about creating beautiful and interactive web experiences, driven
 
 [![Example Image](4gh.jpg)](https://meljaszuk.github.io/SEE-MY-PORTFOLIO/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meljaszuk&&size_weight=0&count_weight=1&layout=compact)
+
 ## SUPPORTING OPEN-SOURCE PROJECTS:
 [![Open Source Helpers](https://www.codetriage.com/animate-css/animate.css/badges/users.svg)](https://www.codetriage.com/animate-css/animate.css)
 [![Open Source Helpers](https://www.codetriage.com/creativecommons/vocabulary/badges/users.svg)](https://www.codetriage.com/creativecommons/vocabulary)
@@ -13,11 +16,6 @@ I am passionate about creating beautiful and interactive web experiences, driven
 [![Open Source Helpers](https://www.codetriage.com/padrinobook/padrinobook/badges/users.svg)](https://www.codetriage.com/padrinobook/padrinobook)
 [![Open Source Helpers](https://www.codetriage.com/jessepollak/card/badges/users.svg)](https://www.codetriage.com/jessepollak/card)
 [![Open Source Helpers](https://www.codetriage.com/sovereign/sovereign/badges/users.svg)](https://www.codetriage.com/sovereign/sovereign)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk&hide=stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meljaszuk&&size_weight=0&count_weight=1&layout=compact)
-
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meljaszuk)](https://github.com/meljaszuk/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meljaszuk&layout=donut)](https://github.com/meljaszuk/github-readme-stats)
 
